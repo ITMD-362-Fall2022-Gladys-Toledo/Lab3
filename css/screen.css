@@ -19,7 +19,7 @@ label {
     font-size: 1.3em;
   }
   
-  @media screen and (min-device-width: 510px) {
+  @media screen and (min-width: 510px) {
     #container {
       text-align: center;
       margin: 3% auto 0 auto;
@@ -42,7 +42,7 @@ label {
     }
   }
   
-  @media screen and (min-device-width: 768px) {
+  @media screen and (min-width: 768px) {
     #container {
       width: 450px;
     }
