@@ -14,9 +14,10 @@ input {
     border: 1px solid #ccc;
     border-radius: 6px;
 }
-#submit {
+form{
     width: 97%;
 }
+
 .fontsize {
     font-size: 1.3em;
 }
