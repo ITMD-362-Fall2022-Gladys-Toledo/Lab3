@@ -20,7 +20,7 @@ label {
   }
   
   @media screen and (min-device-width: 510px) {
-    form {
+    #container {
       text-align: center;
       margin: 3% auto 0 auto;
       width: 65%;
@@ -43,7 +43,7 @@ label {
   }
   
   @media screen and (min-device-width: 768px) {
-    form {
+    #container {
       width: 450px;
     }
       
